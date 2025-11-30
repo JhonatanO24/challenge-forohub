@@ -96,9 +96,13 @@ Foro Hub es una API REST que simula la funcionalidad de un foro en línea. Permi
 └── 📂 db/migration/          → ✈️ Scripts de migración Flyway
 ```
 ⚙ Instalación y Ejecución
+
 1️⃣ Clonar el Repositorio
-bash
-git clone https://github.com/tu-usuario/foro-hub.git
+
+```bash
+git clone https://github.com/JhonatanO24/foro-hub.git
+```
+
 2️⃣ Configurar la Base de Datos
 Edita el archivo application.properties con tus credenciales:
 
